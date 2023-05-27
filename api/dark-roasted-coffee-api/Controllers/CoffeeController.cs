@@ -1,6 +1,5 @@
 using dark_roasted_coffee_api.Models;
 using dark_roasted_coffee_api.Repository;
-using dark_roasted_coffee_api.Services;
 using Microsoft.AspNetCore.Mvc;
 using Swashbuckle.AspNetCore.Annotations;
 
@@ -45,7 +44,6 @@ public class CoffeeController : ControllerBase
         
         var coffee = _coffeeRepository.GetCoffeeById(id);
         if (coffee == null) return NotFound("No Coffee found with id: " + id);
-        
         return Ok(coffee);
     }
 }

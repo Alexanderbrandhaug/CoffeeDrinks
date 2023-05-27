@@ -67,3 +67,4 @@ C:\Users\brand\RiderProjects\dark-roasted-coffee-api\api\dark-roasted-coffee-api
 C:\Users\brand\RiderProjects\dark-roasted-coffee-api\api\dark-roasted-coffee-api\obj\Debug\net7.0\dark-roasted-coffee-api.genruntimeconfig.cache
 C:\Users\brand\RiderProjects\dark-roasted-coffee-api\api\dark-roasted-coffee-api\obj\Debug\net7.0\ref\dark-roasted-coffee-api.dll
 C:\Users\brand\RiderProjects\dark-roasted-coffee-api\api\dark-roasted-coffee-api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\brand\RiderProjects\dark-roasted-coffee-api\api\dark-roasted-coffee-api\bin\Debug\net7.0\Data\CoffeeData.json

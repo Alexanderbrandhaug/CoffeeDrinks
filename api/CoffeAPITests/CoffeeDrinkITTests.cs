@@ -37,6 +37,9 @@ public class CoffeeDrinkITTests : IClassFixture<WebApplicationFactory<Program>>
 
         var coffees = JsonConvert.DeserializeObject<List<CoffeeDrink>>(
             await response.Content.ReadAsStringAsync());
+        
+        //loop over all objects and check that current object's display-order is less than or equal to the next object display-order.
+        // assert true for every loop. If false -> test fails. 
         for (int i = 0; i < coffees.Count - 1; i++)
         {
             Assert.True(coffees[i].displayOrder <= coffees[i + 1].displayOrder);

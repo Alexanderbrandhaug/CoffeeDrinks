@@ -417,3 +417,4 @@ C:\Users\brand\RiderProjects\dark-roasted-coffee-api\api\CoffeAPITests\obj\Debug
 C:\Users\brand\RiderProjects\dark-roasted-coffee-api\api\CoffeAPITests\obj\Debug\net7.0\ref\CoffeAPITests.dll
 C:\Users\brand\RiderProjects\dark-roasted-coffee-api\api\CoffeAPITests\bin\Debug\net7.0\Castle.Core.dll
 C:\Users\brand\RiderProjects\dark-roasted-coffee-api\api\CoffeAPITests\bin\Debug\net7.0\Moq.dll
+C:\Users\brand\RiderProjects\dark-roasted-coffee-api\api\CoffeAPITests\bin\Debug\net7.0\Data\CoffeeData.json

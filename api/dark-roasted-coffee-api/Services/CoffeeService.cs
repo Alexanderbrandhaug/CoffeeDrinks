@@ -7,7 +7,7 @@ namespace dark_roasted_coffee_api.Services;
 
 public class CoffeeService : ICoffeeRepository
 {
-    private readonly string pathToJson = "C:/Users/brand/RiderProjects/dark-roasted-coffee-api/data/CoffeeData.json";
+    private readonly string pathToJson = "Data/CoffeeData.json";
     private List<CoffeeDrink> _coffeeList;
     
 
