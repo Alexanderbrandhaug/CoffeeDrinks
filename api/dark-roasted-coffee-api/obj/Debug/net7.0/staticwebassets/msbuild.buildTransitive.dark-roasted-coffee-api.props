@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\dark-roasted-coffee-api.props" />
+</Project>
